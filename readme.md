@@ -202,10 +202,14 @@ Great start 👍 Now let’s move **step-by-step** toward **Data Structures & Al
 
 ---
 
-## 🎯 Final Mentor Advice
+## 🎯 Final Advice
 - Consistency > Motivation
 - 2–3 problems daily
 - Understand, don’t memorize
 - Code by hand
+
+## RESOURCES
+- [C++ Full Course for free ⚡️ | BRO CODE](https://youtu.be/-TkoO8Z07hI?si=5P85v98A0FtjoZZW)
+- [Markdown Guide](https://www.markdownguide.org/)
 
 Happy Coding 🚀
